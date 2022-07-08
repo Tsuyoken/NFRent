@@ -21,8 +21,6 @@ Install NFRent with git
 
 ## Demo
 
-Insert gif or link to demo
-
 https://youtu.be/-Bga-R7glms
 \
 
